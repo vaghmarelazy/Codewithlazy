@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Codewithlazy
-- 👀 I’m interested in Coding and Gaming.
-- 🌱 I’m currently learning HTML
+- 👋 Hi, I’m Rupesh Vaghmare ( LAZY )
+- 👀 I’m interested in Making somthing noew, Love to collaborate in Something New
+- 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me 
+- 📫 How to reach me
+
 
 <!---
 Codewithlazy/Codewithlazy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
