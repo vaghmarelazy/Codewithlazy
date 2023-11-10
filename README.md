@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rupesh Vaghmare ( LAZY )
-- 👀 I’m interested in Making somthing noew, Love to collaborate in Something New
+- 👀 I’m interested in Making somthing new, Love to collaborate in Something New
 - 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me
